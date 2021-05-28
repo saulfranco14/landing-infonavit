@@ -10890,6 +10890,10 @@ header.masthead h1, header.masthead .h1 {
 .colorResults{
   background-color: aliceblue !important;
 }
+
+.boldSpan{
+  font-weight: bold;
+}
 .showcase .showcase-imgAPI {
     height: 5rem;
     background-repeat: no-repeat;
