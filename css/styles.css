@@ -10851,7 +10851,6 @@ textarea.form-control-lg {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url("https://elceo.com/wp-content/uploads/2020/09/infonavit_freepik.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -10895,9 +10894,10 @@ header.masthead h1, header.masthead .h1 {
   font-weight: bold;
 }
 .showcase .showcase-imgAPI {
-    height: 5rem;
+    height: 20rem;
     background-repeat: no-repeat;
     border-radius: 10px;
+    width: 100%;
 }
 .flexImg{
   display: flex !important;
@@ -10906,19 +10906,22 @@ header.masthead h1, header.masthead .h1 {
   padding-bottom: 2rem !important;
 }
 .resultAPIIMG{
-  height: 20rem;
+  height: 30rem;
   background-repeat: no-repeat;
   border-radius: 10px;
+  width: 100%;
 }
 .heightImg2{
-  height: 27rem;
+  height: 40rem;
   background-repeat: no-repeat;
   border-radius: 10px;
+  width: 100%;
 }
 .heightImg3{
-  height: 15rem;
+  height: 25rem;
   background-repeat: no-repeat;
   border-radius: 10px;
+  width: 100%;
 }
 
 

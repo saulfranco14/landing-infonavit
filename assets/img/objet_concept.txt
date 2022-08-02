@@ -1,0 +1,18 @@
+   
+
+TO OS (057) 103
+O SO E) int,
+
+TS E) int,
+
+TS bimestres cotizando (0-50) int,
+
+RO ("Permanente" || "Temporal”) UN
+
+SS TON TT O
+comportamientoEmpresa obligaciones patronales (1-4) 0
+
+AO SS (635) int,
+
+OS ASS (1-4) int
+
